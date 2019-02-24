@@ -4,9 +4,9 @@ The wall Street Broker House is trying to analyze real stock market data and fin
 
 Team found the following facts for each year data:
 * Yearly change from what the stock opened the year at to what the closing price was.
-* The percent change from the what it opened the year at to what it closed.
-* The total Volume of the stock.
-* Conditional formatting that will highlight positive change in green and negative change in red.
+* The percent change from what it opened the year at to what it closed.
+* The total volume of the stock in each year.
+* Yearly positive change highlighted in green and negative change highlighted in red.
 
 The stock analysis of 2014 is appended below with above mention attribute.
 ![GitHub Logo](https://github.com/obaid8712/VBA-Scripting-Project-01/blob/master/Image/2014Data.PNG)
@@ -20,3 +20,4 @@ The stock analysis of 2016 is appended below with above mention attribute.
 This VBA solution is also included to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume" in each year. 
 
 Wall Street Broker House is also asking to test this VB program on alphabeticlly sorted stock data. Our team developed a new script Alphabtical_MOH attached with this project and successfuly executed the alphabetical test.   
+
