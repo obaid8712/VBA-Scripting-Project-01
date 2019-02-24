@@ -133,8 +133,7 @@ Sub StockCalculator1(s As Integer):
     Main.Sheets(s).Cells(3, 15).Value = TickerDec
     
     'OUTPUT FOR MAX TOTAL VOLUME
-    Main.Sheets(s).Cells(4, 16).Value = MaxTotalValue
-    'Main.Sheets(s).Cells(4, 16).NumberFormat = "0.00%"
+    Main.Sheets(s).Cells(4, 16).Value = MaxTotalValue    
     Main.Sheets(s).Cells(4, 15).Value = TickerTotal
 End Sub
 
