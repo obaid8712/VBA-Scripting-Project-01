@@ -19,5 +19,5 @@ The stock analysis of 2016 is appended below with above mention attribute.
 
 This VBA solution is also included to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume" in each year. 
 
-Wall Street Broker House is also asking to test this VB program on alphabeticlly sorted stock data. Our team developed a new script Alphabtical_MOH attached with this project and successfuly executed the alphabetical test.   
+Wall Street Broker House is also asking to test this VB program on alphabeticlly sorted stock data. Our team developed a new script named Alphabtical_MOH, which is attached with this project and successfuly executed the alphabetical test.   
 
