@@ -59,9 +59,9 @@ Sub StockCalculator1(s As Integer):
             'Conditional Formatting of Yearly change
             If Worksheets(s).Cells(j, 10).Value <> 0 Then
                 If Worksheets(s).Cells(j, 10).Value > 0 Then
-                    Worksheets(s).Cells(j, 10).Interior.ColorIndex = 4 'Green positive change
+                    Worksheets(s).Cells(j, 10).Interior.ColorIndex = 4 'Green for positive change
                 Else
-                    Worksheets(s).Cells(j, 10).Interior.ColorIndex = 3  'Red negative change
+                    Worksheets(s).Cells(j, 10).Interior.ColorIndex = 3  'Red for negative change
                 End If
             End If
             'Check Null value and Calculate Percent Change
