@@ -64,7 +64,7 @@ Sub StockCalculator1(s As Integer):
                     Worksheets(s).Cells(j, 10).Interior.ColorIndex = 3  'Red for negative change
                 End If
             End If
-            'Check Null value and Calculate Percent Change
+            'Check Null value and Calculate Percent Change.
             If YearOpenVal <> 0 Then
                 Worksheets(s).Cells(j, 11).Value = (YearCloseVal - YearOpenVal) / YearOpenVal
             Else
